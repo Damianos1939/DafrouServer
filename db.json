@@ -1,22 +1,22 @@
 {
-    "tasks": [
+    "bonuses": [
         {
             "id": 1,
-            "text": "Doctors Appointment",
-            "day": "May 5th at 2:30pm",
-            "reminder": false
+            "name": "Sweet Bonanza",
+            "bet": 0.60,
+            "bonusAmount": 60
         },
         {
             "id": 2,
-            "text": "Meeting at School",
-            "day": "May 6th at 2:30pm",
-            "reminder": false
+            "name": "Gates of Olympus",
+            "bet": 0.60,
+            "bonusAmount": 5
         },
         {
             "id": 3,
-            "text": "Food Shopping",
-            "day": "May 7th at 12:30pm",
-            "reminder": false
+            "name": "That's Rich",
+            "bet": 0.60,
+            "bonusAmount": 1200
         }
     ]
 }
